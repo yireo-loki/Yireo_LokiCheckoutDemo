@@ -4,8 +4,7 @@
   "description": "N/A",
   "type": "magento2-module",
   "require": {
-    "magento/framework": "*",
-    "yireo/magento2-loki-checkout": "0.0.*"
+    "magento/framework": "*"
   },
   "license": [
     "Open Software License (OSL)"
